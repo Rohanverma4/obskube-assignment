@@ -1,0 +1,19 @@
+.navbar-css{
+    background-color: rgb(144, 238, 238);
+    height: 6rem;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.navbar-css button {
+    border: none;
+    margin-right: 3rem;
+    height: 2rem;
+    width: 5%;
+    background-color: rgb(144, 238, 238);
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
